@@ -1,1 +1,1 @@
-# color-equalize-hist-webcam-sample
+# color-equalize-hist-sample
