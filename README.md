@@ -1,5 +1,5 @@
 # color-equalize-hist-sample
-カラー画像に対するヒストグラム平坦化のサンプルです。
+カラー画像に対するヒストグラム平坦化のOpenCVサンプルです。
 
 <img src="https://user-images.githubusercontent.com/37477845/105632740-35778f80-5e98-11eb-839f-27bf13b5091c.png" width="40%"> <b>→</b> <img src="https://user-images.githubusercontent.com/37477845/105632746-390b1680-5e98-11eb-841e-daf68ee5ce06.png" width="40%">
 
