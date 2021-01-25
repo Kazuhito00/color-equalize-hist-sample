@@ -40,7 +40,7 @@ def main():
         frame = color_equalize_hist(frame, use_CLAHE)
 
         cv.imshow('original', original_frame)
-        cv.imshow('polygon filter', frame)
+        cv.imshow('color equalize hist', frame)
         key = cv.waitKey(1)
         if key == 27:  # ESC
             break
